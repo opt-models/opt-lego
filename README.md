@@ -27,13 +27,10 @@ Discuss the app's development on the opt-models Discord server here ...
 ## Videos released so far ...
 
 ### Welcome!
-
-[![Welcome!](https://img.youtube.com/vi/CaQcSxtWi10/0.jpg)](https://www.youtube.com/watch?v=CaQcSxtWi10)
+<a href="https://www.youtube.com/watch?v=CaQcSxtWi10" target="_blank"><img src="https://img.youtube.com/vi/CaQcSxtWi10/0.jpg" alt="Welcome!"></a>
 
 ### PART 01: The Problem Description
-
-[![PART 01: The Problem Description](https://img.youtube.com/vi/HCJ7cVceJ9s/0.jpg)](https://www.youtube.com/watch?v=HCJ7cVceJ9s)
+<a href="https://www.youtube.com/watch?v=HCJ7cVceJ9s" target="_blank"><img src="https://img.youtube.com/vi/HCJ7cVceJ9s/0.jpg" alt="PART 01: The Problem Description"></a>
 
 ### PART 02: Plan the App Buildout!
-
-[![PART 01: The Problem Description](https://img.youtube.com/vi/PUeQE5cZiQ8/0.jpg)](https://www.youtube.com/watch?v=PUeQE5cZiQ8)
+<a href="https://www.youtube.com/watch?v=PUeQE5cZiQ8" target="_blank"><img src="https://img.youtube.com/vi/PUeQE5cZiQ8/0.jpg" alt="PART 02: Plan the App Buildout!"></a>
