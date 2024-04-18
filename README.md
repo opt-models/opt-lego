@@ -18,27 +18,22 @@ The Multi-Build Search App augments Rebrickable.com's existing Build Search feat
 ## Whiteboard
 Visit the Whimsical whiteboard [here](https://whimsical.com/lego-opt-app-XtvLLsQJvGuQ4Hp1KJVeHc) for the planning and explanatory notes seen in the video series.
 
-## Forum
+## Discord
 
-Discuss the app's development on the opt-models Discord server at https://discord.gg/tngBUD47VC.
+Discuss the app's development on the opt-models Discord server here ... 
 
-<iframe src="https://discord.com/widget?id=1226293117787836467&theme=dark" width="560" height="300" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
-
-
-
+<a href="https://discord.gg/tngBUD47VC" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/653714c1c2d8d50382c7df8a_636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" alt="Join the opt-models Discord server" width="200"></a> 
 
 ## Videos released so far ...
 
 ### Welcome!
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CaQcSxtWi10?si=P6l0ZbCeKjYlTK-u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Welcome!](https://img.youtube.com/vi/CaQcSxtWi10/0.jpg)](https://www.youtube.com/watch?v=CaQcSxtWi10)
 
 ### PART 01: The Problem Description
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HCJ7cVceJ9s?si=2SIuGOFW60TgiXVp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![PART 01: The Problem Description](https://img.youtube.com/vi/HCJ7cVceJ9s/0.jpg)](https://www.youtube.com/watch?v=HCJ7cVceJ9s)
 
 ### PART 02: Plan the App Buildout!
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PUeQE5cZiQ8?si=fj21sxk1GkzcGP0x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![PART 01: The Problem Description](https://img.youtube.com/vi/PUeQE5cZiQ8/0.jpg)](https://www.youtube.com/watch?v=PUeQE5cZiQ8)
